@@ -1,6 +1,6 @@
-# skyauth
+# SSE Push Notifications Lab
 
-Sky World's Auth Application
+A lab demonstrating use of SSE in the delivery of push notifications.
 
 ## Getting Started
 
